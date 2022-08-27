@@ -18,12 +18,10 @@ export const config = {
     birthdays: [
       {"name": "老婆", "year": "1993", "date": "12-27", "type": 'new'},
       {"name": "老公", "year": "1993", "date": "08-09", "type": 'new'},
-    ],
     // 在一起的日子，格式同上
     loveDate: "2015-05-01",
     // 结婚纪念日
-    marryDate: "2020-01-05"
-    }
+    marryDate: "2020-01-05" }
 
 // {{date.DATA}}  
 // 城市：{{city.DATA}}  
